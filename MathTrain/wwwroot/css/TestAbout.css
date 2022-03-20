@@ -1,0 +1,40 @@
+.test-about{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.inputs{
+    width: fit-content;
+    margin: 20px auto;
+}
+.numform, .checkform{
+    display: flex;
+}
+
+.numform p{
+    margin: 10px 0;
+    width: 200px;
+    text-align: left;
+}
+
+input[type=number] {
+    padding: 0;
+    margin: auto 0;
+    border: 1px solid #fff;
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+    height: 28px;
+    width: 48px;
+    -webkit-appearance: none;
+}
+
+input[type=checkbox]{
+    margin: auto 10px;
+}
+.btns{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}

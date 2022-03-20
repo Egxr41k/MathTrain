@@ -1,0 +1,26 @@
+.theory-blocks{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.theory-block{
+    padding-top: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.tab{
+    margin-left: 40px;
+}
+
+.derivativefunc{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.derivativefunc p{
+    text-align: left;
+}
