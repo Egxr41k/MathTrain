@@ -3,7 +3,6 @@ header {
     height: 80px;
 }
 
-
 ul {
     list-style: none;
     margin: 0;
@@ -12,22 +11,16 @@ ul {
 
 .menu > li {
     display: inline-block;
-    margin: 0 20px;
+    margin: 20px auto;
     position: relative;
 }
 
 a {
-    color:white;
+    font-size: 16px;
+    color: white;
     display: block;
     padding: 10px 15px;
     text-decoration: none;
-    outline: none;
-    font-family: 'Lora', serif;
-    transition: .5s linear;
-}
-
-.fa {
-    padding-left: 10px;
 }
 
 .submenu {
@@ -37,9 +30,13 @@ a {
     width: 100%;
 }
 
+.submenu li {
+    margin-left: 20px;
+}
+
 .one .submenu {
     display: none;
-    background: #b19891;
+    background: #2a4487;
 }
 
 .one ul li:hover .submenu {

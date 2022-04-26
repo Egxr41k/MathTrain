@@ -2,22 +2,20 @@
     <div class="container">
         <nav class="one">
             <ul class="menu">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Work</a></li>
-                <li><a href="#">About<i class="fa"></i></a>
-                  <ul class="submenu">
-                    <li><a href="">Item 1</a></li>
-                    <li><a href="">Item 2</a></li>
-                  </ul>
+                <li><a asp-controller="Home" asp-action="Index">Головна</a></li>
+                <li><a>Теоритичний материал</a>
+                    <ul class="submenu">
+                        <li><a asp-controller="Theory" asp-action="SevenClass">7 клас</a></li>
+                        <li><a asp-controller="Theory" asp-action="EightClass">8 клас</a></li>
+                        <li><a asp-controller="Theory" asp-action="NineClass">9 клас</a></li>
+                        <li><a asp-controller="Theory" asp-action="TenClass">10 клас</a></li>
+                        <li><a asp-controller="Theory" asp-action="ElevenClass">11 клас</a></li>
+                    </ul>
                 </li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Тестування</a></li>
+                <li><a href="#">Автори</a></li>
+                <li><a asp-controller="Account" asp-action="Index">LOGIN</a></li>
             </ul>
         </nav>
-
-
-
-
-        
     </div>
 </header>
