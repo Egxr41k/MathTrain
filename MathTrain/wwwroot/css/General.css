@@ -11,12 +11,12 @@ body {
     margin: 0 auto;
 }
 
-section {
+main {
     padding-top: 25px;
     background: url('../imgs/bg.png');
     background-repeat: no-repeat;
     background-position: center;
-    height: 1100px;
+    /*height: 1100px;*/
 }
 
 a .btn {

@@ -1,17 +1,58 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-    <head>
-        @await Html.PartialAsync("MetatagsPartial")
-        @await Html.PartialAsync("CssPartial")
-    </head>
-    <body>
-        @await Html.PartialAsync("HeaderPartial")
-        <section>
-            <div class="container">
-                @RenderBody()
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MathTrain</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/General.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Navigation.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/TestAbout.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Theory.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MathTrain.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="one">
+                <ul class="menu">
+                    <li>
+                        <a asp-controller="Home" asp-action="Index">Головна</a>
+                    </li>
+                    <li>
+                        <a>Теоритичний матеріал</a>
+                        <ul class="submenu"> 
+                            <li><a asp-controller="Theory" asp-action="SevenClass">7 клас</a></li> 
+                            <li><a asp-controller="Theory" asp-action="EightClass">8 клас</a></li> 
+                            <li><a asp-controller="Theory" asp-action="NineClass">9 клас</a></li> 
+                            <li><a asp-controller="Theory" asp-action="TenClass">10 клас</a></li> 
+                            <li><a asp-controller="Theory" asp-action="ElevenClass">11 клас</a></li> 
+                        </ul> 
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Home" asp-action="Testing">Тестування</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Home" asp-action="Autors">Автори</a>
+                    </li>
+                </ul>
             </div>
-        </section>
-        @await Html.PartialAsync("FooterPartial")
-        @await Html.PartialAsync("ScriptsPartial")
-    </body>
+        </div>
+    </header>
+    <main role="main" class="pb-3">
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2022 - MathTrain</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
 </html>

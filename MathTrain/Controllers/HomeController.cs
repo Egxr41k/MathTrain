@@ -1,23 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MathTrain.Models;
+﻿using MathTrain.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace MathTrain.Controllers
 {
     public class HomeController : Controller
     {
-        //private ApplicationDbContext dbContext;
-        //public HomeController(ApplicationDbContext context)
-        //{
-        //    dbContext = context;
-        //}
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
-
 
         public IActionResult Index() => View();
         public IActionResult Testing() => View();
