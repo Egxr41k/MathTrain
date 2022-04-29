@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MathTrain
 build_property.RootNamespace = MathTrain
-build_property.ProjectDir = C:\code\.NET code\C#Dev\MathTrain\MathTrain\
+build_property.ProjectDir = C:\code\.NET code\GithubSh1t\MathTrain\MathTrain\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\code\.NET code\C#Dev\MathTrain\MathTrain
+build_property.MSBuildProjectDirectory = C:\code\.NET code\GithubSh1t\MathTrain\MathTrain
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Home/Autors.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Home/Autors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdXRvcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Home/Index.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Home/Testing.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Home/Testing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Shared/Error.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Theory/EightClass.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Theory/EightClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlb3J5XEVpZ2h0Q2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Theory/ElevenClass.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Theory/ElevenClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlb3J5XEVsZXZlbkNsYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Theory/NineClass.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Theory/NineClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlb3J5XE5pbmVDbGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Theory/SevenClass.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Theory/SevenClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlb3J5XFNldmVuQ2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Theory/TenClass.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Theory/TenClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlb3J5XFRlbkNsYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/_ViewImports.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/_ViewStart.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/code/.NET code/C\#Dev/MathTrain/MathTrain/Views/Shared/_Layout.cshtml]
+[C:/code/.NET code/GithubSh1t/MathTrain/MathTrain/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-b4ue00cf7p
