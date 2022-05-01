@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "jJsBJjtsfAE+nEBOt54UUWvqq4UNYd6wMymHiu/kDh8=",
+=======
+  "Hash": "0O86nOBmT7CLfWYmDKEo5RcOynn5GBZmb3gEmZbUnAk=",
+>>>>>>> e0631178464a602b970540ffe3d871ebfcd85bda
   "Source": "MathTrain",
   "BasePath": "_content/MathTrain",
   "Mode": "Default",
