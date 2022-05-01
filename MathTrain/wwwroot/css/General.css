@@ -3,7 +3,7 @@ body {
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #1c2d59;
-    color: #fff;
+    color: white
 }
 
 .container {
@@ -16,7 +16,7 @@ main {
     background: url('../imgs/bg.png');
     background-repeat: no-repeat;
     background-position: center;
-    /*height: 1100px;*/
+    height: 1080px;
 }
 
 a .btn {
@@ -26,11 +26,6 @@ a .btn {
     border: 2px solid #fff;
 }
 
-h1 {
-    margin: 0;
-    padding: 150px 0;
-    font-size: 48px;
-}
 
 .btn {
     padding: 15px;
@@ -53,7 +48,4 @@ h1 {
 
 .fliped{
     transform: scaleY();
-}
-p{
-    font-size: 24px;
 }

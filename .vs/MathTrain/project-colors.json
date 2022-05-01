@@ -40,7 +40,12 @@
       "ProjectGuid": "7f1d9a94-89a8-47d6-b551-58de84e90df9",
       "DisplayName": "AuthSystem",
       "ColorIndex": 6
+    },
+    "717b8a0d-ca6c-4a64-a360-e63dd89b100c": {
+      "ProjectGuid": "717b8a0d-ca6c-4a64-a360-e63dd89b100c",
+      "DisplayName": "MathTrain",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
