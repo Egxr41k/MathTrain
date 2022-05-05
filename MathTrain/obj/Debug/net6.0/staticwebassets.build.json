@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0O86nOBmT7CLfWYmDKEo5RcOynn5GBZmb3gEmZbUnAk=",
+  "Hash": "jJsBJjtsfAE+nEBOt54UUWvqq4UNYd6wMymHiu/kDh8=",
   "Source": "MathTrain",
   "BasePath": "_content/MathTrain",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\code\\.NET code\\C#Dev\\MathTrain\\MathTrain\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MathTrain.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\code\\.NET code\\C#Dev\\MathTrain\\MathTrain\\wwwroot\\css\\Auth.css",
+      "SourceId": "MathTrain",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\.NET code\\C#Dev\\MathTrain\\MathTrain\\wwwroot\\",
+      "BasePath": "_content/MathTrain",
+      "RelativePath": "css/Auth.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Auth.css"
     },
     {
       "Identity": "C:\\code\\.NET code\\C#Dev\\MathTrain\\MathTrain\\wwwroot\\css\\General.css",
